@@ -1,4 +1,8 @@
 # covid19-vis
 some experimental plots
 
-![vis](vis.gif)
+## accumulated cases by state
+![vis](./plots/vis.gif)
+
+## accumulated (normalized) deaths per million by state
+![vis](./plots/vis-death-normed.gif) 
