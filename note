@@ -1,0 +1,3 @@
+brew install ImageMagick
+
+convert *.png ../covid.gif
