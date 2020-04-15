@@ -1,6 +1,8 @@
 # covid19-vis
 some experimental plots
 
+data source: [JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
+
 ## accumulated cases by state
 The visulaization starts at 01/22/20, two days after the first confirmed case was reported in Washington as no immediate new cases was reported on 01/21/20. 
 
