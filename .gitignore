@@ -1,5 +1,12 @@
+# bash script
+bashes/
+# no ref
+ref/
+
+.DS_Store
 # For this project, also ignore jupyter nb
 *.ipynb
+code/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

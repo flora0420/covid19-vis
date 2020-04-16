@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Main</title>
+    </head>
+    <body>
+        {% extends "template.html" %}
+        {% block content %}
+        <h1>April 14, 2020</h1>
+        <h1>Confirmed cases by state</h1>
+        <p>Start date: January 22, 2020</p>
+        <img src="../static/images/vis.gif" alt="something">
+
+        <h1>Confirmed (normalized) death by state</h1>
+        <p>Start date: Feburary 29, 2020</p>
+        <img src="../static/images/vis-death-normed.gif" alt="something">
+
+        <h1>Top 10 daily case increase by state</h1>
+        <p>Start date: Feburary 29, 2020</p>
+        <img src="../static/images/vis-inc.gif" alt="something">
+    {% endblock %}
+
+    </body>
+</html>
