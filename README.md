@@ -8,7 +8,7 @@ The visulaization starts at 01/22/20, two days after the first confirmed case wa
 
 ![vis](./plots/vis.gif)
 
-## accumulated deaths per million by state
+## accumulated deaths by state
 [The first reported death in the US from covid-19 took place in Washington.](https://www.cdc.gov/media/releases/2020/s0229-COVID-19-first-death.html)
 
 The deaths in the barplots were normalized by the state population. 
