@@ -1,3 +1,8 @@
+## convert images to gif tool
 brew install ImageMagick
-
 convert *.png ../covid.gif
+
+## questions
+- why does vs code fail to recognize the python code? 
+    - using /users/flora/miniconda/bin/python to run the py files, vs code complains about relative path but not terminal. strange
+    
